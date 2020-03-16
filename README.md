@@ -1,2 +1,2 @@
 # pandas_to_koalas_notebook
-Jupyter notebook of 10 minutes from Pandas to Koalas
+Jupyter notebook for 10 minutes from pandas to Koalas
